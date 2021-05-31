@@ -1,2 +1,2 @@
 # Team-recording-project
-This is project for team recording
+This is project for team recording.
