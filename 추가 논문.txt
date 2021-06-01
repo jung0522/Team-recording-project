@@ -1,0 +1,19 @@
+Bae, Jae-Sung, et al. “Speaking Speed Control of End-to-End Speech Synthesis using Sentence-Level Conditioning.” arXiv preprint arXiv:2007.15281 (2020).
+
+ 
+H. Tachibana, K. Uenoyama, and S. Aihara, “Efficiently Trainable Text-to-Speech System Based on Deep Convolutional Networks with Guided Attention,” in Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2018, pp. 4784–4788.
+
+
+R. Skerry-Ryan, E. Battenberg, Y. Xiao, Y. Wang, D. Stanton, J. Shor, R. Weiss, R. Clark, and R. Saurous, “Towards End-to-End Prosody Transfer for Expressive Speech Synthesis with Tacotron,” in Proc. of the 35th International Conference on Machine Learning, 2018, pp. 4693–4702.
+
+
+Y. Lee and T. Kim, “Robust and Fine-grained Prosody Control of End-to-end Speech Synthesis,” in Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019, pp. 5911–5915.
+
+ 
+Y. Wang, D. Stanton, Y. Zhang, R. Skerry-Ryan, E. Battenberg, J. Shor, Y. Xiao, F. Ren, Y. Jia, and R. A. Saurous, “Style tokens: Unsupervised style modeling, control and transfer in end-to-end speech synthesis,” in Proc. of the 35th International Conference on Machine Learning, vol. 80, 2018, pp. 5180–5189.
+
+ 
+N. Mirghafori, E. Foster, and N. Morgan, “Fast speakers in large vocabulary continuous speech recognition: analysis & antidotes,” in Fourth European Conference on Speech Communication and Technology, 1995.
+
+
+Kyuchul Yoon , "Using the Prosody Cloning Technique in Teaching English Prosody", Yeungnam University, 2011, pp. 245-246.
